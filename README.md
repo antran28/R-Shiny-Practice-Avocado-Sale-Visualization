@@ -9,7 +9,7 @@ It is a well known fact that Millenials LOVE Avocado Toast 🍞 It's also a well
 
 Clearly, they aren't buying home because they are buying too much Avocado Toast!
 
-Let's see how many avocados were consumed throughout the year any which city love avocado 🥑 he most!
+Let's see how many avocados were consumed throughout the year any which city love avocado 🥑 the most!
 
 This data was downloaded from the Hass Avocado Board website: https://hassavocadoboard.com/
 
