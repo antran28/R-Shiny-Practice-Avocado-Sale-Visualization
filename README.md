@@ -1,5 +1,8 @@
 # 🥑 Avocado Sale Visualization Using Shiny 🥑
 
+![Avocado](https://user-images.githubusercontent.com/102011433/186786772-e68699a6-e2f8-4133-8ec7-69e8f0248f87.jpg)
+
+
 ## ✨ Introduction
 
 It is a well known fact that Millenials LOVE Avocado Toast 🍞 It's also a well known fact that all Millenials live in their parents basements.
