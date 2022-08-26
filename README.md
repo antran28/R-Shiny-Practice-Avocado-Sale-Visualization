@@ -5,7 +5,7 @@
 
 ## ✨ Introduction
 
-It is a well known fact that Millenials LOVE Avocado Toast 🍞 It's also a well known fact that all Millenials live in their parents basements.
+It is a well known fact that Millenials LOVE Avocado Toast 😍🍞 It's also a well known fact that all Millenials live in their parents basements.
 
 Clearly, they aren't buying home because they are buying too much Avocado Toast!
 
