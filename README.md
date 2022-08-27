@@ -17,7 +17,8 @@ Language used: R Shiny
 
 ## ✨ View my visualisation here
 
-[Avocado Sale Interactive Dashboard](https://antran28.shinyapps.io/ShinyVisualization/)
+- [Avocado Sale Interactive Dashboard](https://antran28.shinyapps.io/ShinyVisualization/)
+- [Source Code](https://github.com/antran28/R-Shiny-Practice-Avocado-Sale-Visualization/blob/main/app.R)
 
 ## ✨ Result summary
 - Conventional avocados have the higher sale than organic avocado because they are cheaper.
