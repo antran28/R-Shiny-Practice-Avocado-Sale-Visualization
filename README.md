@@ -24,6 +24,6 @@ Language used: R Shiny
 - Conventional avocados have the higher sale than organic avocado because they are cheaper.
 - It can be concluded that the best time to sell conventional avocado is from the end of the year to the beginning (February).
 - West and California had the highest avocado sales rates for both types, followed by South Central and North East.
-- Avocado with PLU 4046 and 4225 had the highest average number of avocados compared to avocado with PLU 4770.
+- Avocado types PLU 4046 and 4225 had the highest average number of avocados compared to avocado with PLU 4770.
 
 
